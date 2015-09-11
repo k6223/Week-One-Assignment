@@ -2,7 +2,7 @@ __author__ = 'daniel.neumann'
 
 # File: chaos.py
 # A simple program illustrating chaotic behavior.
-multiplier = 3.9
+multiplier = 2.0
 loopCounter = 10
 def main():
     print("This program illustrates a chaotic function")
