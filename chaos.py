@@ -3,7 +3,7 @@ __author__ = 'daniel.neumann'
 # File: chaos.py
 # A simple program illustrating chaotic behavior.
 multiplier = 2.0
-loopCounter = 10
+loopCounter = 20
 def main():
     print("This program illustrates a chaotic function")
     x = eval(input("Enter a number between 0 and 1: "))
